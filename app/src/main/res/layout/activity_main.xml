@@ -7,5 +7,10 @@
     android:orientation="vertical"
     tools:context="company.pnj.projectspnj.MainActivity">
 
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="kla"/>
+
 
 </RelativeLayout>
